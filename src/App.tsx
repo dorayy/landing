@@ -59,7 +59,7 @@ function HomePage({ theme, language }: { theme: Theme; language: Language }) {
           </div>
           <div className="flex-1">
             <img
-              src="../public/man.png"
+              src="man.png"
               alt="Profile"
               className="rounded-full w-64 h-64 object-cover mx-auto shadow-xl"
             />
